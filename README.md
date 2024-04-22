@@ -1,3 +1,5 @@
+![CC Graphics 2024_Clustereditstrings](https://github.com/csae-coders-corner/Using-OpenRefine-to-cluster-and-edit-strings/assets/148211163/77f6ec4a-f0d5-4bee-a39e-75aea67282b2)
+
 # Using-OpenRefine-to-cluster-and-edit-strings
 OpenRefine (previously also known as Google Refine) is a free, open-source software used for data cleaning as well as performing both basic and advanced cell transformations. This can be useful if you are working with large raw data files and need to systematically clean string or numeric variables (say, due to the absence of a unique identifier), or want a quick overview of the data before running further analysis. 
 
